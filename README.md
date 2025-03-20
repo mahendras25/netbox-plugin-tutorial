@@ -1,4 +1,5 @@
-# NetBox Plugin Development Tutorial
+# NetBox Plugin Development Tutorial 
+[BLOG for Netbox](https://ttl255.com/developing-netbox-plugin-part-1-setup-and-initial-build/)
 
 This guide seeks to demonstrate the process of developing a custom plugin for NetBox v3.2 or later. By following each of the prescribed steps, the reader will create from scratch a simple plugin for managing access lists in NetBox, utilizing all major components of the NetBox plugin framework.
 
